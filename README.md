@@ -5,7 +5,7 @@
 
 Welcome
 
-Course will contain basic web knowleges, HTML, CSS, ... and students will decide what else(potentially Ruby, Python, JS(AngularJS or React or Ember...))
+Course will contain basic web knowleges, HTML, CSS, ... and students will decide what else. Potentionally Ruby, Python or JS(AngularJS or React or Ember)
 
 We plan to decrease the amount of the lecture in favor of collective discussion, team projects & collective work.
 And give all power & responsibility to students.
